@@ -1,4 +1,4 @@
-#Contains both files - C file for the code and the hex file to burned into a microcontroller or for simulation purpose.
+# Contains both files - C file for the code and the hex file to burned into a microcontroller or for simulation purpose.
 
 led.c/led.hex : Simple program for a blinking led
 
